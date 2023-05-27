@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+**/__pycache__/**
+
+temp/**
+!temp/.gitkeep
+
+model/**
+!model/.gitkeep
+.vscode

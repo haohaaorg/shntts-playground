@@ -1,0 +1,15 @@
+Cython
+librosa
+scipy
+numpy
+phonemizer
+torch
+torchvision
+Unidecode
+monotonic-align
+fasttext-langdetect
+pydub
+flask
+flask_cors
+soundfile
+gunicorn
